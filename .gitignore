@@ -1,0 +1,43 @@
+# Vendor (Composer dependencies)
+vendor/
+
+# Environment / config (if you later add env files)
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Cache / temp
+cache/
+tmp/
+storage/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (if added later)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# PHPUnit
+.phpunit.result.cache
+
+# Uploaded files (if you add uploads later)
+public/uploads/
+
+# Build / dist
+dist/
+build/
+
+# Ignore todo / notes
+todo.txt
